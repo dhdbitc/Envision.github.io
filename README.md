@@ -31,7 +31,7 @@ We used two sources of data for our research:<br>
 Throughout the data collection section of our investigation our team encountered several challenges.<br>
 
 #### Step 1 Challenges
-In Step 1, our objective was to investigate the top 10 artists of the past 5 years using Billboard’s weekly ‘Billboard Hot 100’ charts. 
+In Step 1, our objective was to investigate the top 10 artists of the past 5 years using Billboard’s weekly ‘Billboard Hot 100’ charts. <br>
 INSERT PHOTO OF BILLBOARD 100 CHART 
 
 Challenge|Solution|Outcome
