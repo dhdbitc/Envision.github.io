@@ -27,10 +27,11 @@ We used two sources of data for our research:<br>
 * Billboard (Billboard API) via Python Package (pypi.python.org/pypi/billboard.py) 
 * Spotify (Spotify API) (https://developer.spotify.com/documentation/web-api)<br>
 <br>
+
 ### Data Challenges:
 Throughout the data collection section of our investigation our team encountered several challenges.<br>
 <br>
-      Step 1 Challenges:
+      Step 1 Challenges:<br>
 In Step 1, our objective was to investigate the top 10 artists of the past 5 years using Billboard’s weekly ‘Billboard Hot 100’ charts. 
 INSERT PHOTO OF BILLBOARD 100 CHART 
 
